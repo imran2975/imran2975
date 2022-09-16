@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imran Abubakar
-=================================================================================================================================
-I'm a Passionate Front End Developer 
+======================================================================================================================================
+
+Web Developer
+-------------
+
+I'm a Passionate Front End Developer
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://imran2975.github.io/portfolio)
@@ -9,8 +13,8 @@ I'm a Passionate Front End Developer
 * 🧠  I'm learning Bootstrap and JavaScript
 * 🤝  I'm open to collaborating on Html and css
 
-<a href="https://www.twitter.com/@am_Imran943" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@am_Imran943?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/am_Imran943" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/am_Imran943?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/imran2975" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/imran2975?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -26,7 +30,7 @@ src="https://img.shields.io/github/followers/imran2975?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/imran2975" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@am_Imran943" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/imran2975" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/am_Imran943" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
