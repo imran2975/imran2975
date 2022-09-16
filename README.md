@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imran Abubakar
-======================================================================================================================================
-
-I've been learning how to code for like 2year after that I found that I'm very passionate about web development
+=================================================================================================================================
+I'm a Passionate Front End Developer 
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://imran2975.github.io/portfolio)
