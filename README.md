@@ -7,10 +7,10 @@ Web Developer
 I'm a Passionate Front End Developer, Aspiring Full stack. I started my journey into tech Last year 2021 starting with python but later moved to web development early February this Year 2022. Looking forward to opportunities to help boost my Tech journey.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://imran2975.github.io/portfolio)
+* 🖥️  See my portfolio at [My Portfolio](http://portfolio.imranabubakar3.repl.co/)
 * ✉️  You can contact me at [imranabubakar943@gmail.com](mailto:imranabubakar943@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://imran2975.github.io/portfolio)
-* 🧠  I'm learning Bootstrap, JavaScript and node js
+* 🚀  I'm currently working on [My Portfolio](http://portfolio.imranabubakar3.repl.co/)
+* 🧠  I'm learning Git, Bootstrap, JavaScript and Node.js
 * 🤝  I'm open to collaborating on Html, Css and JavaScript
 * ⚡  I'm secretly in love with Rihanna.... But don't tell anyone.
 
