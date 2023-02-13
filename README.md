@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a Passionate Front End Developer, Aspiring Full stack. I started my journey into tech Last year 2021 starting with python but later moved to web development early February this Year 2022. Looking forward to opportunities to help boost my Tech journey.
+I'm a Passionate Front End Developer, Aspiring Full stack. I started my journey into tech Last year 2021 starting with python but later moved to web development early February in the Year 2022. Looking forward to opportunities to help boost my Tech journey.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran2975&label=Profile%20views&color=0e75b6&style=flat" alt="imran2975" /> </p>
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://imran2975.github.io/Portfolio)
 * ✉️  You can contact me at [imranabubakar943@gmail.com](mailto:imranabubakar943@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://imran2975.github.io/Portfolio)
-* 🧠  I'm learning Git, Bootstrap, JavaScript and Node.js
+* 🧠  I'm learning Git, Bootstrap, JavaScript and React.js
 * 🤝  I'm open to collaborating on Html, Css and JavaScript
 * ⚡  I'm secretly dating Rihanna.... But don't tell anyone.
 
@@ -28,15 +30,15 @@ src="https://img.shields.io/github/followers/imran2975?logo=github&style=for-the
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-</p>
+
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/imran2975" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/imran2975" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/imran-abubakar-395527251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devv_Imran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Support
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/geeCodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/imranabubakar" /></a></p><br><br>
 
 ### Badges
 
