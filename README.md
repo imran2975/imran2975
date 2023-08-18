@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a Passionate Front End Developer, Aspiring Full stack. I started my journey into tech Last year 2021 starting with python but later moved to web development early February in the Year 2022. Looking forward to opportunities to help boost my Tech journey.
+I'm a passionate frontend developer, aspiring full stack. I design and develop websites and platforms. On the frontend, I work with design teams to ensure that user interactions on web pages are intuitive and engaging. Also looking forward to opportunities to help boost my tech journey.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran2975&label=Profile%20views&color=0e75b6&style=flat" alt="imran2975" /> </p>
 
